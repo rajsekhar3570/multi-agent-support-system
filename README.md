@@ -3,6 +3,7 @@ An intelligent multi-agent customer support system that classifies user intent, 
 
 
 # MVP model Architecture.
+```text
     ┌────────────────────────────────────────────────────┐
     │                 User / Frontend                    │
     │          (React.js UI + WebSockets)                │
@@ -60,3 +61,4 @@ An intelligent multi-agent customer support system that classifies user intent, 
     ┌────────────────────────────────────────────────────┐
     │                 User / Frontend                    │
     └────────────────────────────────────────────────────┘
+```
